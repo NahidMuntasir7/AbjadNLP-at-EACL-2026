@@ -1,5 +1,5 @@
 # Arabic Medical Text Classification  
-**AbjadNLP Shared Task @ EACL 2026**
+**AbjadNLP Shared Task 4 @ EACL 2026**
 
 This repository contains the code for the **Arabic Medical Text Classification** shared task organized as part of the **Abjad NLP Workshop at EACL 2026**.
 
